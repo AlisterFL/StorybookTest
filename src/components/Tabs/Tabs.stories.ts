@@ -26,7 +26,7 @@ const meta = {
 		rounded: {
 			control: { type: 'boolean' }
 		},
-    padding: {
+    	padding: {
 			control: { type: 'text' },
 			description: 'padding entre les onglets'
 		},
